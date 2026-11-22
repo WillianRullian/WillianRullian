@@ -1,0 +1,41 @@
+<svg width="860" height="76" viewBox="0 0 860 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">Willian Rullian — Encerramento</title>
+  <desc id="descId">Construindo sistemas de IA confiáveis, reprodutíveis e sob controle de quem os utiliza. Vitória da Conquista, BA — UESB Ciência da Computação — Inglês Intermediário.</desc>
+
+  <defs>
+    <clipPath id="footerClip">
+      <rect x="0.5" y="0.5" width="859" height="75" rx="12"/>
+    </clipPath>
+    <linearGradient id="footerAccent" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#059669" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .footer-quote {
+      font: 600 13.5px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+      fill: #1F2328;
+    }
+    .footer-meta {
+      font: 400 11.5px 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace;
+      fill: #57606A;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * {
+        animation: none !important;
+        transition: none !important;
+      }
+    }
+  </style>
+
+  <g clip-path="url(#footerClip)">
+    <rect x="0" y="0" width="860" height="76" fill="#F6F8FA"/>
+    <rect x="0" y="74" width="860" height="2" fill="url(#footerAccent)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="859" height="75" rx="12" stroke="#D0D7DE"/>
+
+  <text x="430" y="32" text-anchor="middle" class="footer-quote">Construindo sistemas de IA confiáveis, reprodutíveis e sob controle de quem os utiliza.</text>
+  <text x="430" y="54" text-anchor="middle" class="footer-meta">Vitória da Conquista, BA · UESB — Ciência da Computação · Inglês Intermediário</text>
+</svg>

@@ -1,0 +1,100 @@
+<svg width="860" height="215" viewBox="0 0 860 215" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">Willian Rullian — Engenharia de IA, LLMs, NLP, Ciência de Dados e Agentes</title>
+  <desc id="descId">Banner de perfil de Willian Rullian: Engenharia de IA, LLMs, NLP, Ciência de Dados e Agentes. Ciência da Computação na UESB, Residência em Software TIC 36 (1.306h), Vitória da Conquista, BA.</desc>
+
+  <defs>
+    <clipPath id="cardClip">
+      <rect x="0.5" y="0.5" width="859" height="214" rx="12"/>
+    </clipPath>
+    <linearGradient id="accentTop" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="55%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.75"/>
+    </linearGradient>
+    <radialGradient id="subtleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(745 92) rotate(90) scale(120 155)">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F6F8FA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .pill-text {
+      font: 600 11px 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace;
+      fill: #059669;
+      letter-spacing: 0.4px;
+    }
+    .hero-name {
+      font: 700 36px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+      fill: #1F2328;
+      letter-spacing: -0.5px;
+    }
+    .hero-role {
+      font: 500 16px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+      fill: #0284C7;
+    }
+    .hero-meta {
+      font: 400 12px 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace;
+      fill: #57606A;
+    }
+    .node-pulse {
+      animation: pulseOpacity 3.2s ease-in-out infinite;
+    }
+    @keyframes pulseOpacity {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.45; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * {
+        animation: none !important;
+        transition: none !important;
+      }
+    }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="0" y="0" width="860" height="215" fill="#F6F8FA"/>
+    <rect x="0" y="0" width="860" height="215" fill="url(#subtleGlow)"/>
+    <rect x="0" y="0" width="860" height="3" fill="url(#accentTop)"/>
+
+    <!-- Minimalist neural / agent graph motif -->
+    <g opacity="0.88">
+      <line x1="658" y1="54" x2="718" y2="38" stroke="#D0D7DE" stroke-width="1.2"/>
+      <line x1="658" y1="54" x2="712" y2="92" stroke="#0284C7" stroke-opacity="0.32" stroke-width="1.2"/>
+      <line x1="658" y1="112" x2="712" y2="92" stroke="#D0D7DE" stroke-width="1.2"/>
+      <line x1="658" y1="112" x2="724" y2="142" stroke="#D0D7DE" stroke-width="1.2"/>
+      <line x1="718" y1="38" x2="778" y2="62" stroke="#0284C7" stroke-opacity="0.38" stroke-width="1.2"/>
+      <line x1="712" y1="92" x2="778" y2="62" stroke="#059669" stroke-opacity="0.38" stroke-width="1.2"/>
+      <line x1="712" y1="92" x2="774" y2="122" stroke="#4F46E5" stroke-opacity="0.32" stroke-width="1.2"/>
+      <line x1="724" y1="142" x2="774" y2="122" stroke="#D0D7DE" stroke-width="1.2"/>
+      <line x1="778" y1="62" x2="824" y2="92" stroke="#0284C7" stroke-opacity="0.45" stroke-width="1.3"/>
+      <line x1="774" y1="122" x2="824" y2="92" stroke="#059669" stroke-opacity="0.42" stroke-width="1.3"/>
+
+      <circle cx="658" cy="54" r="3.5" fill="#FFFFFF" stroke="#57606A" stroke-width="1.4"/>
+      <circle cx="658" cy="112" r="3.5" fill="#FFFFFF" stroke="#57606A" stroke-width="1.4"/>
+      <circle cx="718" cy="38" r="4" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.5"/>
+      <circle cx="712" cy="92" r="5" fill="#FFFFFF" stroke="#059669" stroke-width="1.6"/>
+      <circle cx="724" cy="142" r="3.5" fill="#FFFFFF" stroke="#57606A" stroke-width="1.4"/>
+      <circle cx="778" cy="62" r="4.5" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.6"/>
+      <circle cx="774" cy="122" r="4.5" fill="#FFFFFF" stroke="#4F46E5" stroke-width="1.6"/>
+      <circle cx="824" cy="92" r="6" fill="#0284C7" fill-opacity="0.16" stroke="#0284C7" stroke-width="1.8"/>
+      <circle cx="824" cy="92" r="2.5" fill="#059669"/>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="859" height="214" rx="12" stroke="#D0D7DE"/>
+
+  <!-- Status pill -->
+  <rect x="36" y="30" width="428" height="28" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <circle cx="52" cy="44" r="4" fill="#059669" class="node-pulse"/>
+  <text x="65" y="48" class="pill-text">ABERTO A OPORTUNIDADES · ENGENHARIA DE IA &amp; DADOS</text>
+
+  <!-- Identity & Positioning -->
+  <text x="36" y="106" class="hero-name">Willian Rullian</text>
+  <text x="36" y="138" class="hero-role">Engenharia de IA · LLMs · NLP · Ciência de Dados &amp; Agentes</text>
+
+  <!-- Subtle divider -->
+  <line x1="36" y1="158" x2="698" y2="158" stroke="#D0D7DE"/>
+
+  <!-- Credentials -->
+  <text x="36" y="182" class="hero-meta">Ciência da Computação (UESB) · Residência em Software TIC 36 (1.306h) · Vitória da Conquista, BA</text>
+</svg>

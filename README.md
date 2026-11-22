@@ -1,90 +1,131 @@
-# 👨🏻‍💻 Willian Rullian Ferreira dos Anjos
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img src="assets/hero-dark.svg" alt="Willian Rullian — Engenharia de IA, LLMs, NLP, Ciência de Dados e Agentes" width="100%" />
+  </picture>
 
-> Estudante de Ciência da Computação · UESB · Vitória da Conquista, BA
+  <br /><br />
 
-Desenvolvedor com foco em **Inteligência Artificial** e **Ciência de Dados**, com experiência prática em projetos de Machine Learning com Python. Participei da **Residência em Software TIC 36** (746h), desenvolvendo soluções reais em parceria com a SETRE/Governo da Bahia. Também atuo como técnico em TI — de manutenção de hardware a instalação de sistemas.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Ferramentas & Infraestrutura**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
-**Práticas & Metodologias**
-
-![Scrum](https://img.shields.io/badge/Scrum%20Master-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Testes](https://img.shields.io/badge/Teste%20de%20Software-FF6F00?style=flat-square&logo=testng&logoColor=white)
-
-**Áreas de Foco**
-
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=flat-square&logo=openai&logoColor=white)
-![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1572B6?style=flat-square&logo=databricks&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hardware](https://img.shields.io/badge/Técnico%20em%20TI-4EAA25?style=flat-square&logo=linux&logoColor=white)
+  <a href="https://www.linkedin.com/in/willian-rullian-ferreira-dos-anjos-b45155175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:niltomwr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email" />
+  </a>
+  <a href="https://github.com/nodulo-os/nodulo">
+    <img src="https://img.shields.io/badge/N%C3%93DULO-059669?style=flat-square&logo=go&logoColor=white" alt="NÓDULO" />
+  </a>
+  <a href="https://github.com/WillianRullian">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## Sobre Mim
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **[Redes Convolucionais](https://github.com/WillianRullian/Redes-Convolucionais)** | Implementação de CNN para classificação de imagens | Python, TensorFlow |
-| **[Regressão T3](https://github.com/MaickCross/ProjetoRegressaoT3)** | Projeto de regressão e análise preditiva com Machine Learning | Python, Scikit-learn |
-| **Feirinha UESB** | Plataforma de e-commerce universitária | Java, JavaFX, SQL |
+Graduando em **Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB)**, com atuação direcionada para **Engenharia de Inteligência Artificial, LLMs, Processamento de Linguagem Natural (NLP), Machine Learning e Sistemas de Agentes**.
+
+Acumulo **1.306 horas** de experiência prática na **Residência em Software TIC 36 (SETRE/Governo da Bahia · MCTI)**, integrando Ciência de Dados (560h) e desenvolvimento de software em equipe (746h), somadas à atuação técnica em infraestrutura, sistemas Linux e manutenção de hardware. Busco oportunidades (**estágio, posição júnior ou pesquisa aplicada**) para transformar modelos de IA e pipelines de dados em sistemas confiáveis, auditáveis e de impacto real.
 
 ---
 
-### 🎓 Formação & Certificações
+## Foco Atual em IA & Engenharia
 
-- 🎓 **Ciência da Computação** — UESB (4° semestre)
-- 🏅 **Residência em Software TIC 36** — Fase 1: 560h (Ciência de Dados + Empreendedorismo) · jul–dez 2024
-- 🏅 **Residência em Software TIC 36** — Fase 2: 746h (Desenvolvimento de Software · SETRE/MCTI) · jan–out 2025
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img
-    height="180em"
-    src="https://readme-zeta-ten.vercel.app/api?username=WillianRullian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
-  />
-  <img
-    height="180em"
-    src="https://readme-zeta-ten.vercel.app/api/top-langs/?username=WillianRullian&theme=tokyonight&layout=compact&hide_border=true&langs_count=9&custom_title=Tecnologias"
-  />
-</p>
+- **Engenharia de LLMs & RAG**: Arquitetura de pipelines de geração aumentada por recuperação, embeddings vetoriais, roteamento multi-modelo e *guardrails* de segurança.
+- **Agentes Inteligentes & Ferramentas (MCP)**: Construção de fluxos agênticos com memória estruturada, uso determinístico de ferramentas e integração entre modelos e aplicações.
+- **NLP & Machine Learning Aplicado**: Pré-processamento e vetorização textual, classificação, análise preditiva, redes neurais e avaliação rigorosa de métricas.
+- **Infraestrutura para IA Auto-hospedada**: Inferência local compatível com Ollama, APIs em Python e Go, PostgreSQL e implantação reproduzível via Docker Compose.
 
 ---
 
-### 🎯 Foco Atual
+## Projeto em Destaque
 
-- Aprofundando conhecimentos em **Machine Learning e Deep Learning**
-- Explorando **Redes Neurais Convolucionais** para visão computacional
-- Desenvolvendo projetos práticos de **Ciência de Dados**
-- Expandindo conhecimentos em **Cloud e infraestrutura**
+### [NÓDULO (`nodulo-os/nodulo`)](https://github.com/nodulo-os/nodulo) · [Organização `nodulo-os`](https://github.com/nodulo-os)
+
+<div align="center">
+  <a href="https://github.com/nodulo-os/nodulo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-zeta-ten.vercel.app/api/pin/?username=nodulo-os&repo=nodulo&show_owner=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-zeta-ten.vercel.app/api/pin/?username=nodulo-os&repo=nodulo&show_owner=true&bg_color=F6F8FA&title_color=0284C7&text_color=1F2328&icon_color=059669&border_color=D0D7DE&border_radius=10" />
+      <img src="https://readme-zeta-ten.vercel.app/api/pin/?username=nodulo-os&repo=nodulo&show_owner=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" alt="Repositório nodulo-os/nodulo" />
+    </picture>
+  </a>
+</div>
+
+<br />
+
+- **Proposta e Soberania de Dados**: Plataforma de Inteligência Artificial voltada a universidades, escolas, empresas e pessoas que priorizam autonomia digital, permitindo controlar onde a IA executa, quem acessa e como os dados são administrados — sem venda ou monetização de conversas e documentos.
+- **Inferência & RAG**: Integração configurável com o protocolo compatível com **Ollama** para execução de modelos abertos (como *Llama* e *Qwen*) e pipeline **RAG** baseado em embeddings de **768 dimensões**.
+- **Arquitetura em Produção**: Backend concorrente em **Go** com migrações automatizadas, interface web em **Next.js / TypeScript**, persistência em **PostgreSQL** e empacotamento com **Docker Compose** e suporte a **Coolify**.
+- **Atuação**: Membro da organização [`nodulo-os`](https://github.com/nodulo-os).
 
 ---
 
-### 📫 Contato
+## Stack Técnica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-rullian-ferreira-dos-anjos-b45155175/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niltomwr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WillianRullian)
+| Domínio | Tecnologias & Competências |
+| :--- | :--- |
+| **IA, LLMs & Dados** | `Python` · `LLMs & RAG` · `NLP` · `Agentes & MCP` · `Ollama` · `Scikit-learn` · `TensorFlow` · `Pandas` · `NumPy` |
+| **Backend & Dados** | `FastAPI` · `Flask` · `Go` · `Java 21` · `Spring Boot` · `PostgreSQL` · `SQL` · `APIs REST` |
+| **Web & Interfaces** | `TypeScript` · `Next.js` · `JavaScript` · `HTML5 / CSS3` |
+| **Infraestrutura & Engenharia** | `Docker` · `Docker Compose` · `Linux` · `Git` · `Testes Automatizados` · `Scrum` · `Kanban` |
 
 ---
 
-<sub>📍 Vitória da Conquista, Bahia · UESB — Ciência da Computação · Inglês Intermediário</sub>
+## Experiência & Formação
+
+- **Residência em Software TIC 36 — Fase 2 (746h)** · *SETRE / Governo da Bahia · MCTI* (`jan–out 2025`)
+  Desenvolvimento de software em equipe para soluções reais do setor público, atuando em APIs REST com Java 21, Spring Boot, PostgreSQL, autenticação OAuth2, documentação OpenAPI, testes e fluxos ágeis (Scrum/Kanban).
+- **Residência em Software TIC 36 — Fase 1 (560h)** · *Ciência de Dados & Empreendedorismo · MCTI* (`jul–dez 2024`)
+  Análise exploratória de dados, modelagem preditiva com Python e estruturação de soluções tecnológicas orientadas a problema real.
+- **Bacharelado em Ciência da Computação** · *UESB — Vitória da Conquista, BA* (`Em andamento`)
+  Base sólida em algoritmos, inteligência artificial, processamento de linguagem natural, modelagem de dados e sistemas concorrentes.
+- **Técnico em TI (Atuação Independente)**
+  Diagnóstico e manutenção de hardware, instalação e administração de sistemas Linux e Windows e suporte técnico completo.
+
+---
+
+## Métricas & Atividade no GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-zeta-ten.vercel.app/api?username=WillianRullian&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=prs_merged&locale=pt-br&custom_title=Atividade%20no%20GitHub&card_width=380&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-zeta-ten.vercel.app/api?username=WillianRullian&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=prs_merged&locale=pt-br&custom_title=Atividade%20no%20GitHub&card_width=380&bg_color=F6F8FA&title_color=0284C7&text_color=1F2328&icon_color=059669&border_color=D0D7DE&border_radius=10" />
+    <img src="https://readme-zeta-ten.vercel.app/api?username=WillianRullian&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=prs_merged&locale=pt-br&custom_title=Atividade%20no%20GitHub&card_width=380&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" alt="Atividade no GitHub de Willian Rullian" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-zeta-ten.vercel.app/api/top-langs/?username=WillianRullian&owner_affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=readme&hide=jupyter%20notebook,html,css,shell&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Principais%20Linguagens&card_width=380&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-zeta-ten.vercel.app/api/top-langs/?username=WillianRullian&owner_affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=readme&hide=jupyter%20notebook,html,css,shell&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Principais%20Linguagens&card_width=380&bg_color=F6F8FA&title_color=0284C7&text_color=1F2328&icon_color=059669&border_color=D0D7DE&border_radius=10" />
+    <img src="https://readme-zeta-ten.vercel.app/api/top-langs/?username=WillianRullian&owner_affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=readme&hide=jupyter%20notebook,html,css,shell&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Principais%20Linguagens&card_width=380&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&border_color=30363D&border_radius=10" alt="Principais linguagens de Willian Rullian" />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-zeta-ten.vercel.app/api/streak?username=WillianRullian&locale=pt-br&custom_title=Consist%C3%AAncia%20no%20GitHub&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&ring_color=38BDF8&border_color=30363D&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-zeta-ten.vercel.app/api/streak?username=WillianRullian&locale=pt-br&custom_title=Consist%C3%AAncia%20no%20GitHub&bg_color=F6F8FA&title_color=0284C7&text_color=1F2328&icon_color=059669&ring_color=0284C7&border_color=D0D7DE&border_radius=10" />
+    <img src="https://readme-zeta-ten.vercel.app/api/streak?username=WillianRullian&locale=pt-br&custom_title=Consist%C3%AAncia%20no%20GitHub&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=34D399&ring_color=38BDF8&border_color=30363D&border_radius=10" alt="Consistência de contribuições no GitHub de Willian Rullian" />
+  </picture>
+</div>
+
+---
+
+## Contato
+
+Aberto a conexões com **recrutadores, lideranças técnicas e pesquisadores** em **Engenharia de IA, LLMs, Ciência de Dados e Engenharia de Software**.
+
+- **LinkedIn**: [linkedin.com/in/willian-rullian-ferreira-dos-anjos-b45155175](https://www.linkedin.com/in/willian-rullian-ferreira-dos-anjos-b45155175/)
+- **Email**: [niltomwr@gmail.com](mailto:niltomwr@gmail.com)
+- **GitHub**: [github.com/WillianRullian](https://github.com/WillianRullian)
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+    <img src="assets/footer-dark.svg" alt="Construindo sistemas de IA confiáveis, reprodutíveis e sob controle de quem os utiliza." width="100%" />
+  </picture>
+</div>
